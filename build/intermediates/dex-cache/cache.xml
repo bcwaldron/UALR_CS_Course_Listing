@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\programs\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Bryan\AndroidStudioProjects\bcwaldron.hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.1.1_13f74f112e9cbf31e88e0912d205d576dd6dc1ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bryan\AndroidStudioProjects\bcwaldron.hw2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="C:\Users\Bryan\AndroidStudioProjects\bcwaldron.hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-22.1.1_c1f99b7103c1546968bcb77bdd503d901ec6e358\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bryan\AndroidStudioProjects\bcwaldron.hw2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0f6cadfbba8fc2dafb205eac21945348cb7e9b8f">
+        <dex dex="C:\Users\Bryan\AndroidStudioProjects\bcwaldron.hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c1b8007e894bdff9102558657bc8d0851c59a23e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bryan\AndroidStudioProjects\bcwaldron.hw2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="04dbde64b1949ca8c9f8f26a3cc072d3c074702f">
+        <dex dex="C:\Users\Bryan\AndroidStudioProjects\bcwaldron.hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cce84ecc85e663f9efec22aa059993767c613316\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bryan\AndroidStudioProjects\bcwaldron.hw2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Bryan\AndroidStudioProjects\bcwaldron.hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.1.1_d95f57e937279fdfe0b14dbb08f5b1b853c1783c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bryan\AndroidStudioProjects\bcwaldron.hw2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Bryan\AndroidStudioProjects\bcwaldron.hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.1.1_4b29b5357a96c1d9cb9fee1af27f795e65a4c529\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bryan\AndroidStudioProjects\bcwaldron.hw2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Bryan\AndroidStudioProjects\bcwaldron.hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.1.1_6a330f272d8e6d22b1404ade0e06a2c99a57374b\classes.dex" />
+    </item>
+
+</items>
